@@ -158,18 +158,5 @@ List festlist=[
       'assets/genesh_chaturtiy/img_1.5.png',
     ],
   },
-  {
-    'Festival' : 'Krishna Janmashtami',
-    'word': 'Create your Krishna Janmashtami Templates',
-    'Image' : 'assets/genesh_chaturtiy/img_1.1.png',
-    'Color' : Colors.green,
-    'images':[
-     'assets/genesh_chaturtiy/img_1.1.png',
-      'assets/genesh_chaturtiy/img_1.2.png',
-       'assets/genesh_chaturtiy/img_1.3.png',
-       'assets/genesh_chaturtiy/img_1.4.png',
-       'assets/genesh_chaturtiy/img_1.5.png',
-    ],
-  },
 
 ];
