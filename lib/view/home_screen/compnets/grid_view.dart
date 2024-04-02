@@ -20,7 +20,7 @@ Widget festList1(Color color, String name, String name2, String img,int index,Bu
   return InkWell(
     onTap: () {
       Index = index;
-      Navigator.of(context).pushNamed('/poster');
+      Navigator.of(context).pushNamed('/gotoedit');
     },
     child: Padding(
       padding: const EdgeInsets.all(8.0),

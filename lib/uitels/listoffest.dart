@@ -171,43 +171,5 @@ List festlist=[
        'assets/genesh_chaturtiy/img_1.5.png',
     ],
   },
-  {
-    'Festival' : 'Dussera',
-    'word': 'Create your Dussera Templates',
-    'Image' : 'assets/Diwali/img_1.1.jpg',
-    'Color' : Colors.red,
-    'images':[
-      'assets/genesh_chaturtiy/img_1.1.png',
-      'assets/genesh_chaturtiy/img_1.2.png',
-      'assets/genesh_chaturtiy/img_1.3.png',
-      'assets/genesh_chaturtiy/img_1.4.png',
-      'assets/genesh_chaturtiy/img_1.5.png',
-    ],
-  },
-  {
-    'Festival' : 'Ram Navami',
-    'word': 'Create your Ram Navami Templates',
-    'Image' :  'assets/Diwali/img_1.1.jpg',
-    'Color' : Colors.lightGreenAccent,
-    'images':[
-      'assets/Diwali/img_1.1.jpg',
-      'assets/Diwali/img_1.2.jpg',
-      'assets/Diwali/img_1.3.jpg',
-      'assets/Diwali/img_1.4.jpg',
-      'assets/Diwali/img_1.5.jpg',
-    ],
-  },
-  {
-    'Festival' : 'Karwa Chauth',
-    'word': 'Create your Karwa Chauth Templates',
-    'Image' :  'assets/Diwali/img_1.5.jpg',
-    'Color' : Colors.teal,
-    'images':[
-      'assets/Diwali/img_1.1.jpg',
-      'assets/Diwali/img_1.2.jpg',
-      'assets/Diwali/img_1.3.jpg',
-      'assets/Diwali/img_1.4.jpg',
-      'assets/Diwali/img_1.5.jpg',
-    ],
-  },
+
 ];

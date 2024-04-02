@@ -24,6 +24,7 @@ class _Home_screenState extends State<Home_screen> {
           centerTitle: true,
           title: Image(
             image: AssetImage('assets/logo.png'),
+            height: 70,
           ),
           backgroundColor: const Color(0xff1c2438),
           actions: [
