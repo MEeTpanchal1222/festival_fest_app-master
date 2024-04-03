@@ -34,7 +34,7 @@ class _Home_screenState extends State<Home_screen> {
                   islist = !islist;
                 });
               },
-              child: Icon((!islist)?Icons.filter_list:
+              child: Icon((!islist)?Icons.list:
               Icons.grid_view,
                 color: Colors.white,
               ),

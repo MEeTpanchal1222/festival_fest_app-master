@@ -57,7 +57,7 @@ Widget festList1(Color color, String name, String name2, String img,int index,Bu
                   textAlign: TextAlign.center,
                   overflow: TextOverflow.clip,
                   style: const TextStyle(
-                      fontSize: 16,
+                      fontSize: 20,
                       fontWeight: FontWeight.bold,
                       color: Colors.white)),
             ),

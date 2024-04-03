@@ -1,3 +1,4 @@
+import 'package:festival_fest_app/view/edit_screen/edit_screen.dart';
 import 'package:festival_fest_app/view/gotoedit_screen/gotoedit_screen.dart';
 import 'package:festival_fest_app/view/home_screen/home_screen.dart';
 import 'package:festival_fest_app/view/slashscreen.dart';
@@ -20,7 +21,7 @@ class MyApp extends StatelessWidget {
         '/':(context) => splesh_screen(),
         '/home':(context) => Home_screen(),
          '/gotoedit':(context) => gotoedit_screen(),
-        // '/edit':(context) => Edit_screen(),
+        '/edit':(context) => Edit_screen(),
       },
     );
   }

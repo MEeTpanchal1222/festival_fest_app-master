@@ -70,6 +70,13 @@ flutter:
     - assets/holi/
     - assets/maker_sankrti/
     - assets/raksha_bandhan/
+    - assets/pogal/
+    - assets/republic_day/
+    - assets/navratri/
+    - assets/maha_shivratri/
+    - assets/indpened_day/
+    - assets/Basnt_panchami/
+    - assets/bhai_dooj/
 
 
   # An image asset can refer to one or more resolution-specific "variants", see

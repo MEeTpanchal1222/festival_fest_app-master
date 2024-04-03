@@ -110,10 +110,10 @@ class _gotoedit_screenState extends State<gotoedit_screen> {
                       ),
                       Text(
                         'FestiVals',
-                        style: GoogleFonts.lobster(
+                        style: GoogleFonts.rocknRollOne(
                           fontSize: 35,
                           color: Colors.white,
-                          letterSpacing: 2,
+                          letterSpacing: 1,
                         ),
                       ),
                       const SizedBox(
@@ -121,7 +121,7 @@ class _gotoedit_screenState extends State<gotoedit_screen> {
                       ),
                       Text(
                         'Create Your Template With us!!',
-                        style: GoogleFonts.lobster(
+                        style: GoogleFonts.habibi(
                           fontSize: 15,
                           color: Colors.white,
                           letterSpacing: 2,
