@@ -32,7 +32,7 @@ class MyApp extends StatelessWidget {
 
 
 
-
+//draggable_widget: ^2.0.0
 //text moving or moving widget;
 // import 'package:draggable_widget/draggable_widget.dart';
 // import 'package:flutter/material.dart';
@@ -177,7 +177,7 @@ class MyApp extends StatelessWidget {
 
 
 
-
+///draggable_bottom_sheet: ^1.0.2
 ///drage bottem sheet;
 // import 'package:draggable_bottom_sheet/draggable_bottom_sheet.dart';
 // import 'package:flutter/material.dart';
